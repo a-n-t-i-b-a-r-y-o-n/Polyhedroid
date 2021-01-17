@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="al.hexagon.polyhedroid.MainActivity"
+    android:id="@+id/mainActivityMenu">
+
+    <!--
+    <group >
+        <item
+            android:id="@+id/showCancelled"
+            android:checkable="true"
+            android:title="Show Cancelled"
+            />
+        <item
+            android:id="@+id/showComplete"
+            android:checkable="true"
+            android:enabled="true"
+            android:title="Show Complete" />
+    </group>
+
+    -->
+    <group >
+        <item
+            android:id="@+id/action_settings"
+            android:orderInCategory="100"
+            android:title="@string/action_settings"
+            app:showAsAction="never" />
+    </group>
+</menu>

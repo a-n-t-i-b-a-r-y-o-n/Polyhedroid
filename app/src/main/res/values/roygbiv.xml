@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="roygbiv0">#8a188c</color>
+    <color name="roygbiv1">#9b0078</color>
+    <color name="roygbiv2">#b8075e</color>
+    <color name="roygbiv3">#d50e44</color>
+    <color name="roygbiv4">#ea6142</color>
+    <color name="roygbiv5">#ffb440</color>
+    <color name="roygbiv6">#ffd932</color>
+    <color name="roygbiv7">#ffff25</color>
+    <color name="roygbiv8">#92e62d</color>
+    <color name="roygbiv9">#26ce35</color>
+    <color name="roygbiv10">#13bd8f</color>
+    <color name="roygbiv11">#00adea</color>
+    <color name="roygbiv12">#2787de</color>
+    <color name="roygbiv13">#4f61d3</color>
+    <color name="roygbiv14">#6c3caf</color>
+</resources>

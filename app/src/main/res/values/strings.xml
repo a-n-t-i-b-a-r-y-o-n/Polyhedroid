@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Polyhedroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+
+
+
+    <!-- Main List -->
+    <string name="no_tasks_hint">Nothing to do!</string>
+
+    <!-- 10 random "table flip" kaomoji (randomly displayed if there are no tasks) -->
+    <string name="table_flip_1">(╯°□°）╯︵ ┻━┻</string>
+    <string name="table_flip_2">(ノಠ益ಠ)ノ彡┻━┻</string>
+    <string name="table_flip_3">(┛◉Д◉)┛彡┻━┻</string>
+    <string name="table_flip_4">ヽ(`Д´)ﾉ︵ ┻━┻</string>
+    <string name="table_flip_5">(ﾉಥ益ಥ）ﾉ ┻━┻</string>
+    <string name="table_flip_6">(┛ಸ_ಸ)┛彡┻━┻</string>
+    <string name="table_flip_7">(ﾉ≧∇≦)ﾉ ﾐ ┻━┻</string>
+    <string name="table_flip_8">(╯ರ ~ ರ）╯︵┻━┻</string>
+    <string name="table_flip_9">(┛✧Д✧)┛彡┻━┻</string>
+    <string name="table_flip_10">─=≡Σ((((╯°□°）╯︵┻━┻</string>  <!-- This one is amazing -->
+    <!-- c.f. https://emojicons.com/table-flipping, https://cutekaomoji.com/misc/table-flipping/ -->
+
+    <string name="default_note_color">-338176</string>
+
+</resources>

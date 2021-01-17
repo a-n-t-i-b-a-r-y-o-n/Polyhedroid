@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_icon_background">#1E1E19</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark0">#2A2A2C</color>
+    <color name="dark1">#1B1B19</color>
+    <color name="dark2">#181915</color>
+    <color name="dark3">#111110</color>
+    <color name="softWhite">#C9C8C0</color>
+
+    <color name="currentTaskColor">#3F51B5</color>
+</resources>
